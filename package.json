@@ -1,6 +1,6 @@
 {
   "name": "presentation-exceptions",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "The Augmented.js Next - Presentation Decorator Module.",
   "main": "dist/presentation-exceptions.js",
   "scripts": {
@@ -41,7 +41,7 @@
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
-    "presentation-dialogs": "^3.1.6"
+    "presentation-dialogs": "^3.1.7"
   },
   "bugs": {
     "url": "https://github.com/Augmentedjs/presentation-exceptions/issues"
